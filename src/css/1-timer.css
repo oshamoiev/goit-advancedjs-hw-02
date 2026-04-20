@@ -1,0 +1,25 @@
+main {
+  padding-top: 40px;
+  padding-left: 20px;
+}
+
+.timer {
+  display: flex;
+  margin-top: 40px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.value {
+  font-size: 50px;
+}
+
+.label {
+  font-size: 20px;
+}
+
